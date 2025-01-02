@@ -54,5 +54,11 @@ const arLang = {
     'reliable': 'ضمان موثوق',
     'vision-goal1': 'بناء شبكة خدمات عالمية',
     'vision-goal2': 'وضع معايير الصناعة',
-    'vision-goal3': 'قيادة تطور الصناعة'
+    'vision-goal3': 'قيادة تطور الصناعة',
+    'stats-countries': '50+',
+    'stats-countries-text': 'البلدان المشمولة',
+    'stats-partners': '1000+',
+    'stats-partners-text': 'الشركاء',
+    'stats-cases': '10000+',
+    'stats-cases-text': 'قصص النجاح'
 }; 
